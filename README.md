@@ -4,7 +4,7 @@ Patch per risolvere il blocco **"Collegare l'interfaccia USB"** sul software **C
 
 ---
 
-## 🇮🇹 Italiano
+## Italiano
 
 ### Il Problema
 Su Windows 11, Microsoft ha deprecato e rimosso lo strumento di sistema `wmic`.
@@ -27,7 +27,7 @@ Il software ufficiale Cressi UCI utilizza uno script interno (`listDevice.bat`) 
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### The Issue
 On Windows 11, Microsoft deprecated and removed the legacy `wmic` utility.
